@@ -1,2 +1,2 @@
-# egor255.github.io
+# Савкин Егор Сергеевич
 The first website of mine
